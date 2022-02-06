@@ -8,18 +8,21 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ Any late labs that do not use grace days are deducted 10% from the total possible points for every 24 hour period it is late but assignments can be resubmitted for up to 50% of the credit
+at anytime.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+CS110-A0: Programming Concepts and Application with Python
+SPRING 2022
+
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
